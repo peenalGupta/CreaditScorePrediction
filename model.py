@@ -129,5 +129,5 @@ new_customer_data = {
     "Avg_Utilization_Ratio": 0.061
 }
 
-predicted_score = predict_credit_score(new_customer_data)
-print("Predicted Credit Score:", predicted_score)
+#predicted_score = predict_credit_score(new_customer_data)
+#Sprint("Predicted Credit Score:", predicted_score)
